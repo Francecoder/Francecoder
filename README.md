@@ -1,4 +1,1 @@
-Xin chào , tui là Đinh Hữu Pháp
-Tui code dạo thôi :D 
-Part_time code còn lại thì đánh cờ tướng nha
-Ai cần học cờ thì liên hệ 0834141834 nhe
+Chào mọi người, mình là Đinh Hữu Pháp. Ban ngày mình là một coder part-time, còn khi rảnh rỗi, mình lại hóa thân thành một kỳ thủ cờ tướng. Nếu bạn muốn học cờ tướng, đừng ngần ngại, hãy liên hệ với mình qua số 0834141834 nhé!
