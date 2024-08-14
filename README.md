@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Francecoder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Francecoder/Francecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Xin chào , tui là Đinh Hữu Pháp
+Tui code dạo thôi :D 
+Part_time code còn lại thì đánh cờ tướng nha
+Ai cần học cờ thì liên hệ 0834141834 nhe
